@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400">
-  <path d="M300 150h400v100H300z" fill="#ED1941"/>
-  <path d="M350 180h50v40h-50z" fill="white"/>
-  <path d="M420 180h50v40h-50z" fill="white"/>
-  <path d="M490 180h50v40h-50z" fill="white"/>
-  <path d="M560 180h50v40h-50z" fill="white"/>
-  <path d="M350 240h260v10H350z" fill="white"/>
-</svg>

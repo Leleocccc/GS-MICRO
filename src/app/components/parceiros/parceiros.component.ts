@@ -150,10 +150,10 @@ import { Component } from '@angular/core';
 })
 export class ParceirosComponent {
   // Property binding para as imagens dos parceiros
-  logoIBM = 'assets/images/ibm-logo.png';
-  logoMicrosoft = 'assets/images/microsoft-logo.png';
-  logoGoogle = 'assets/images/google-logo.png';
-  logoAmazon = 'assets/images/amazon-logo.png';
-  logoOracle = 'assets/images/oracle-logo.png';
-  logoFIAP = 'assets/images/fiap-logo.png';
+  logoIBM = 'assets/images/ibm.png';
+  logoMicrosoft = 'assets/images/microsoft.png';
+  logoGoogle = 'assets/images/google.png';
+  logoAmazon = 'assets/images/amazon.png';
+  logoOracle = 'assets/images/oracle.png';
+  logoFIAP = 'assets/images/fiap.png';
 }
